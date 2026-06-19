@@ -4,7 +4,6 @@
 #include <algorithm>
 #include <string>
 #include <cmath>
-#include <crow.h>
 
 // Structure to hold Functional Dependencies (e.g., A,B -> C)
 struct FD {
